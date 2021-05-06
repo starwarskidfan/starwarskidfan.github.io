@@ -1,0 +1,74 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: #ff7d93;
+}
+
+
+.homebutton ul.home li {
+    list-style: none;
+    display: left;
+    margin-right: 15px;
+    font-size: 30px;
+    font-family: Courier;
+    padding-top: 20px;
+
+}
+
+.homebutton ul.home a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.homebutton ul.home a:hover {
+    color: rgb(255, 247, 142)
+}
+
+.menu ul.menutext {
+    font-family: serif;
+    font-style: 1.5vw;
+    font-style: normal;
+
+}
+
+.menu ul.menutext li {
+    list-style: none;
+    display: left;
+    margin-right: 15px;
+    border-width: 2px;
+    border-color: #000;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-family: Courier;
+
+}
+
+.menu ul.menutext a {
+    color: #000;
+    text-decoration: none;
+}
+
+.menu ul.menutext a:hover {
+    color: rgb(255, 247, 142)
+}
+
+.menu ul.menutext {
+    font-family: serif;
+    font-style: 1.5vw;
+    font-style: normal;
+
+}
+
+.dani {
+    width: 500px;
+    height: 500px;
+}
+
+.imgcontainer1 {
+    float: right;
+    margin-right: 600px;
+
+
+}
