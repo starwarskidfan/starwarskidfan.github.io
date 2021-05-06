@@ -62,18 +62,20 @@ body {
 }
 
 .picturecontainer {
-    width: 75%;
+    width: 40%;
     margin: auto;
     margin-top: -150px;
+    
 }
 
 .imgcontainer1 {
     float: left;
-    margin-left: 100px;
+    
+    width: max-content;
 }
 
 .teacher {
-    width: 310px;
+    width: 30;
     height: 310px;
     border: 5px solid rgb(255, 247, 142);
 }
@@ -93,5 +95,11 @@ body {
 .container1{
     color: black;
     margin-left: 700px;
-    width: 800px;
+    width: 60%;
+}
+
+.text
+{
+    font-family:Courier;
+    font-size: 20px
 }
